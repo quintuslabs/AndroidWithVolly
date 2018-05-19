@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginRegistration</string>
+    <string name="email"><u>Register via Email</u></string>
+    <string name="terms"><u>I agree Terms &amp; Service</u></string>
+</resources>
